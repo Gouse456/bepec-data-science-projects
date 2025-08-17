@@ -1,0 +1,201 @@
+Churn_Type,Key_Indicators,Recommended_Products,Retention_Offers,Preferred_Channel,AGE,CUS_Month_Income,CUS_Gender,CUS_Marital_Status
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Reward accounts",Reward points,Mobile App,56,80000,Male,Divorced
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Alternative financial products, Upgraded services",Cashback offers,Email,32,60000,Male,Widowed
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Priority services, Concierge banking",Personalized investment tips,Branch,38,25000,Male,Married
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","High-yield savings, Fixed deposits",Dedicated RM support,Phone,36,15000,Female,Single
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Competitive loan rates, Exclusive offers",Instant approvals,Mobile App,28,120000,Male,Divorced
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Investment advisory tools, Robo-advisory",Cashback offers,Branch,53,15000,Female,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Personal finance tools",Cashback offers,Mobile App,20,15000,Female,Divorced
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Premium support package, Priority services",Instant approvals,Phone,19,60000,Female,Single
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Engagement rewards, Zero balance accounts",Personalized investment tips,Phone,47,25000,Female,Married
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Goal-based savings",Instant approvals,Phone,38,60000,Male,Married
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Alternative financial products, Upgraded services",Waive monthly fees,Phone,39,15000,Male,Divorced
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Personalized investment tips,Branch,42,25000,Female,Single
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Private banking, Wealth management",Personalized investment tips,SMS,59,15000,Female,Married
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Upgraded services, Tailored insurance",Dedicated RM support,Email,33,25000,Female,Widowed
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Competitive loan rates, Exclusive offers",Reward points,Email,64,60000,Female,Single
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Private banking, Premium cards",Match competitor offers,SMS,61,40000,Male,Widowed
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Basic credit card, Debit card cashback",Cashback offers,Phone,20,120000,Male,Divorced
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Reward points,SMS,24,25000,Male,Widowed
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Goal-based savings",Reward points,SMS,56,15000,Female,Married
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Tailored insurance, Alternative financial products",Cashback offers,Phone,42,200000,Male,Divorced
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Low-interest EMI plans",Cashback offers,Branch,67,40000,Male,Single
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Goal-based savings",Reward points,Phone,43,15000,Male,Married
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Upgraded services, Alternative financial products",Match competitor offers,Branch,37,25000,Female,Married
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Investment advisory tools, Digital-only accounts",Personalized investment tips,Mobile App,24,60000,Female,Widowed
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Digital-only accounts, Investment advisory tools",Waive monthly fees,Mobile App,25,15000,Male,Married
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","No-fee savings account, Debit card cashback",Cashback offers,SMS,31,40000,Male,Single
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Premium support package, Priority services",Priority customer care,Email,67,60000,Female,Widowed
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Zero balance accounts",Instant approvals,Phone,19,40000,Female,Married
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Premium cards, Wealth management",Cashback offers,Mobile App,59,40000,Female,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Premium cards",Personalized investment tips,SMS,46,200000,Female,Single
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Engagement rewards",Priority customer care,Email,43,40000,Male,Widowed
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Reward accounts",Cashback offers,Email,27,120000,Female,Single
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Wealth management, Competitive loan rates",Instant approvals,Mobile App,31,60000,Female,Widowed
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Wealth management, Exclusive offers",Priority customer care,Phone,32,15000,Female,Single
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Personalized investment tips,Mobile App,40,40000,Female,Married
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","High-yield savings, Flexible RD plans",Priority customer care,SMS,57,80000,Male,Divorced
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Upgraded services, Alternative financial products",Reward points,Mobile App,62,25000,Male,Single
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Fixed deposits, High-yield savings",Personalized investment tips,SMS,41,40000,Male,Married
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Fixed deposits, Flexible RD plans",Match competitor offers,Email,62,15000,Male,Single
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Robo-advisory, Investment advisory tools",Match competitor offers,Branch,32,25000,Male,Divorced
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Robo-advisory, Investment advisory tools",Cashback offers,SMS,42,200000,Male,Single
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Concierge banking, Premium support package",Personalized investment tips,Phone,41,40000,Female,Married
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Low-interest EMI plans, Personal loans",Waive monthly fees,SMS,25,15000,Male,Widowed
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Personal loans, Credit cards",Cashback offers,SMS,28,25000,Male,Married
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Exclusive offers, Competitive loan rates",Dedicated RM support,Email,25,60000,Female,Divorced
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Low-interest EMI plans",Instant approvals,Phone,50,60000,Female,Divorced
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","No-fee savings account, Debit card cashback",Reward points,Branch,59,40000,Male,Divorced
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Alternative financial products, Upgraded services",Reward points,SMS,58,120000,Female,Single
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Debit card cashback, No-fee savings account",Waive monthly fees,Phone,26,60000,Female,Married
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Investment advisory tools, Digital-only accounts",Cashback offers,Phone,51,15000,Male,Divorced
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Alternative financial products, Upgraded services",Reward points,Branch,40,60000,Female,Married
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Debit card cashback, No-fee savings account",Match competitor offers,Email,54,60000,Male,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Goal-based savings, Personal finance tools",Personalized investment tips,Branch,57,25000,Female,Single
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Investment advisory tools, Digital-only accounts",Personalized investment tips,Branch,52,40000,Female,Married
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Robo-advisory, Digital-only accounts",Instant approvals,SMS,54,200000,Female,Single
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Robo-advisory, Investment advisory tools",Match competitor offers,Mobile App,20,80000,Male,Single
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Goal-based savings",Instant approvals,SMS,43,25000,Female,Divorced
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Upgraded services, Alternative financial products",Match competitor offers,Mobile App,31,40000,Male,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Private banking, Premium cards",Cashback offers,Phone,26,60000,Male,Married
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Flexible RD plans, Fixed deposits",Match competitor offers,Branch,43,15000,Female,Single
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Digital-only accounts, Investment advisory tools",Personalized investment tips,Branch,30,25000,Female,Divorced
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Private banking, Wealth management",Match competitor offers,Phone,49,60000,Male,Divorced
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Concierge banking, Priority services",Priority customer care,Email,69,40000,Female,Divorced
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Upgraded services, Alternative financial products",Match competitor offers,SMS,21,120000,Female,Married
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","High-yield savings, Fixed deposits",Personalized investment tips,Email,40,60000,Female,Single
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Competitive loan rates, Wealth management",Cashback offers,Branch,32,80000,Male,Single
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Private banking, Premium cards",Personalized investment tips,Email,53,120000,Male,Widowed
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","No-fee savings account, Basic credit card",Priority customer care,Mobile App,24,25000,Male,Widowed
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Tailored insurance, Alternative financial products",Priority customer care,SMS,39,120000,Male,Single
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Upgraded services, Tailored insurance",Priority customer care,Email,59,80000,Female,Widowed
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Engagement rewards",Priority customer care,Email,23,40000,Female,Divorced
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Low-interest EMI plans, Personal loans",Personalized investment tips,Phone,61,25000,Female,Single
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Investment advisory tools, Digital-only accounts",Personalized investment tips,Branch,47,120000,Female,Single
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Wealth management, Exclusive offers",Dedicated RM support,SMS,45,40000,Male,Single
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Engagement rewards",Instant approvals,SMS,50,25000,Female,Single
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","No-fee savings account, Debit card cashback",Match competitor offers,Branch,44,40000,Female,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Instant approvals,Branch,69,40000,Male,Widowed
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Basic credit card, Debit card cashback",Reward points,Branch,20,15000,Female,Divorced
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Exclusive offers, Competitive loan rates",Cashback offers,Branch,25,40000,Male,Widowed
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Competitive loan rates, Wealth management",Instant approvals,Phone,54,60000,Female,Married
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Concierge banking, Priority services",Match competitor offers,Branch,59,25000,Female,Divorced
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Low-interest EMI plans",Dedicated RM support,Email,32,25000,Male,Widowed
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Reward accounts",Waive monthly fees,SMS,49,40000,Male,Single
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Wealth management, Competitive loan rates",Personalized investment tips,Branch,58,40000,Male,Married
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Low-interest EMI plans, Credit cards",Reward points,Phone,66,25000,Female,Married
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Goal-based savings",Instant approvals,Email,29,25000,Male,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Goal-based savings",Cashback offers,SMS,19,60000,Male,Single
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Basic credit card, Debit card cashback",Cashback offers,SMS,54,25000,Female,Widowed
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Robo-advisory, Investment advisory tools",Instant approvals,Phone,34,25000,Male,Widowed
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Engagement rewards",Priority customer care,Branch,19,40000,Male,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Premium cards",Match competitor offers,Branch,40,25000,Female,Divorced
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Concierge banking, Premium support package",Priority customer care,Phone,50,60000,Female,Widowed
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Wealth management, Exclusive offers",Dedicated RM support,Phone,19,40000,Female,Married
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Flexible RD plans, High-yield savings",Cashback offers,Email,43,200000,Female,Single
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Premium cards, Private banking",Priority customer care,Branch,49,40000,Female,Married
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","No-fee savings account, Debit card cashback",Personalized investment tips,Phone,28,40000,Male,Divorced
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Flexible RD plans, Fixed deposits",Instant approvals,SMS,34,60000,Female,Widowed
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Robo-advisory, Digital-only accounts",Match competitor offers,Email,41,40000,Female,Widowed
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Reward accounts",Personalized investment tips,Email,51,60000,Male,Divorced
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Zero balance accounts",Match competitor offers,Email,28,80000,Female,Divorced
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Investment advisory tools, Digital-only accounts",Match competitor offers,Mobile App,33,80000,Male,Divorced
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Basic credit card, Debit card cashback",Cashback offers,Mobile App,23,60000,Female,Married
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Fixed deposits, Flexible RD plans",Dedicated RM support,Email,20,40000,Female,Widowed
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","No-fee savings account, Basic credit card",Instant approvals,Branch,53,15000,Female,Widowed
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Goal-based savings",Cashback offers,Email,20,80000,Male,Married
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Goal-based savings",Priority customer care,Branch,37,60000,Female,Married
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Low-interest EMI plans, Credit cards",Cashback offers,Email,69,120000,Female,Divorced
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Premium support package, Priority services",Reward points,SMS,57,40000,Female,Single
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Goal-based savings, Reward accounts",Priority customer care,Phone,35,80000,Male,Single
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Basic credit card, Debit card cashback",Priority customer care,Mobile App,28,25000,Male,Divorced
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Concierge banking, Premium support package",Personalized investment tips,Email,42,25000,Female,Married
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Low-interest EMI plans",Match competitor offers,SMS,48,120000,Male,Single
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","High-yield savings, Fixed deposits",Match competitor offers,Branch,52,25000,Female,Widowed
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Low-interest EMI plans",Instant approvals,Phone,33,80000,Female,Widowed
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","High-yield savings, Flexible RD plans",Waive monthly fees,Phone,69,40000,Female,Single
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Fixed deposits, Flexible RD plans",Match competitor offers,Email,19,200000,Male,Married
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","High-yield savings, Fixed deposits",Dedicated RM support,Branch,29,40000,Female,Widowed
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Investment advisory tools, Robo-advisory",Instant approvals,Branch,49,60000,Female,Single
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Personal loans, Credit cards",Dedicated RM support,Phone,26,25000,Female,Single
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Digital-only accounts, Investment advisory tools",Priority customer care,Branch,36,60000,Male,Widowed
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Basic credit card, Debit card cashback",Priority customer care,Mobile App,20,120000,Male,Divorced
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Concierge banking, Priority services",Priority customer care,Mobile App,50,60000,Female,Married
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Debit card cashback, No-fee savings account",Instant approvals,Mobile App,28,120000,Male,Married
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Premium support package, Priority services",Priority customer care,Phone,53,120000,Male,Widowed
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Tailored insurance, Upgraded services",Personalized investment tips,Branch,37,40000,Female,Widowed
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Alternative financial products, Upgraded services",Cashback offers,Phone,65,15000,Male,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Match competitor offers,SMS,52,200000,Female,Divorced
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Fixed deposits, Flexible RD plans",Dedicated RM support,Phone,35,25000,Female,Married
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Tailored insurance, Alternative financial products",Personalized investment tips,SMS,35,40000,Female,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Priority customer care,Branch,52,60000,Male,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Premium cards",Dedicated RM support,Mobile App,58,25000,Male,Widowed
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Zero balance accounts",Instant approvals,Email,21,25000,Male,Widowed
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Goal-based savings, Reward accounts",Cashback offers,Phone,38,25000,Female,Divorced
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Upgraded services, Tailored insurance",Waive monthly fees,SMS,25,80000,Female,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Reward accounts",Instant approvals,Mobile App,34,25000,Male,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Goal-based savings",Waive monthly fees,Mobile App,65,15000,Female,Married
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Robo-advisory, Digital-only accounts",Instant approvals,Email,68,60000,Male,Divorced
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Premium support package, Priority services",Cashback offers,SMS,39,25000,Female,Married
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Premium cards, Wealth management",Personalized investment tips,Branch,55,200000,Male,Widowed
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Low-interest EMI plans, Credit cards",Priority customer care,Phone,68,120000,Female,Divorced
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Tailored insurance, Upgraded services",Match competitor offers,Branch,44,40000,Male,Single
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Personal loans",Priority customer care,Mobile App,38,40000,Female,Divorced
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Priority services, Concierge banking",Match competitor offers,Mobile App,45,60000,Female,Divorced
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Premium cards, Wealth management",Priority customer care,Phone,50,25000,Female,Single
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Priority services, Premium support package",Match competitor offers,Email,65,25000,Female,Married
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Goal-based savings, Personal finance tools",Dedicated RM support,Email,52,80000,Male,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Goal-based savings",Reward points,Email,34,200000,Female,Divorced
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Competitive loan rates, Wealth management",Priority customer care,Phone,47,200000,Female,Divorced
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Investment advisory tools, Digital-only accounts",Personalized investment tips,Branch,23,40000,Male,Widowed
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Tailored insurance, Alternative financial products",Match competitor offers,SMS,58,200000,Female,Single
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Goal-based savings",Instant approvals,Phone,46,40000,Female,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Goal-based savings",Personalized investment tips,Mobile App,48,200000,Male,Widowed
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Zero balance accounts",Waive monthly fees,Mobile App,50,15000,Female,Widowed
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Low-interest EMI plans",Reward points,Branch,38,25000,Female,Single
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Zero balance accounts, Reactivation offers",Instant approvals,Mobile App,50,25000,Female,Widowed
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Engagement rewards",Personalized investment tips,Branch,35,40000,Female,Divorced
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Engagement rewards",Dedicated RM support,Mobile App,48,80000,Male,Divorced
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Cashback offers,Email,20,40000,Female,Married
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Fixed deposits, High-yield savings",Reward points,SMS,41,25000,Male,Single
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Priority services, Premium support package",Personalized investment tips,Phone,64,200000,Male,Married
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Competitive loan rates, Exclusive offers",Match competitor offers,Email,19,25000,Male,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Goal-based savings",Personalized investment tips,SMS,59,120000,Male,Married
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Robo-advisory, Investment advisory tools",Reward points,Branch,34,80000,Male,Married
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Tailored insurance, Upgraded services",Dedicated RM support,SMS,26,60000,Male,Single
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Flexible RD plans, High-yield savings",Waive monthly fees,SMS,65,40000,Male,Widowed
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Personal loans",Instant approvals,Branch,59,80000,Female,Single
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Reward accounts",Dedicated RM support,SMS,52,25000,Female,Widowed
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Wealth management, Exclusive offers",Instant approvals,SMS,41,120000,Male,Married
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Upgraded services, Tailored insurance",Cashback offers,Mobile App,24,40000,Female,Widowed
+Product Dissatisfaction,"Product Dissatisfaction indicators like transaction patterns, complaints, or engagement","Tailored insurance, Alternative financial products",Instant approvals,Phone,62,25000,Male,Widowed
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Zero balance accounts, Reactivation offers",Dedicated RM support,Branch,25,60000,Female,Widowed
+Digital Enthusiast,"Digital Enthusiast indicators like transaction patterns, complaints, or engagement","Investment advisory tools, Robo-advisory",Cashback offers,Mobile App,33,15000,Female,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Personal finance tools, Goal-based savings",Reward points,SMS,68,25000,Male,Widowed
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Debit card cashback, Basic credit card",Instant approvals,Mobile App,45,40000,Female,Single
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Low-interest EMI plans",Reward points,Branch,49,40000,Female,Divorced
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Priority services, Concierge banking",Cashback offers,Phone,39,25000,Male,Divorced
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Flexible RD plans, High-yield savings",Match competitor offers,Mobile App,39,40000,Male,Widowed
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Wealth management, Exclusive offers",Waive monthly fees,Email,39,25000,Female,Divorced
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Competitive loan rates, Exclusive offers",Cashback offers,SMS,59,80000,Female,Single
+Service Dissatisfied,"Service Dissatisfied indicators like transaction patterns, complaints, or engagement","Concierge banking, Priority services",Reward points,Phone,60,15000,Female,Widowed
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Low-interest EMI plans",Reward points,SMS,50,80000,Female,Single
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Debit card cashback, Basic credit card",Priority customer care,SMS,61,200000,Male,Divorced
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Reactivation offers, Zero balance accounts",Dedicated RM support,Branch,56,15000,Female,Divorced
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Reward accounts, Goal-based savings",Waive monthly fees,Email,62,25000,Female,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Personalized investment tips,Email,47,40000,Male,Single
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Credit cards, Low-interest EMI plans",Priority customer care,Branch,57,60000,Female,Divorced
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Exclusive offers, Competitive loan rates",Dedicated RM support,Mobile App,30,200000,Male,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Cashback offers,Phone,59,25000,Male,Widowed
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Flexible RD plans, Fixed deposits",Match competitor offers,Mobile App,34,40000,Female,Widowed
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Wealth management, Private banking",Dedicated RM support,Mobile App,36,40000,Male,Divorced
+High Net Worth Attrition,"High Net Worth Attrition indicators like transaction patterns, complaints, or engagement","Private banking, Premium cards",Cashback offers,Branch,43,15000,Male,Married
+Credit-Seeking,"Credit-Seeking indicators like transaction patterns, complaints, or engagement","Personal loans, Credit cards",Cashback offers,SMS,40,40000,Female,Married
+Low Engagement,"Low Engagement indicators like transaction patterns, complaints, or engagement","Goal-based savings, Personal finance tools",Personalized investment tips,Mobile App,29,40000,Male,Divorced
+Competitor-Driven,"Competitor-Driven indicators like transaction patterns, complaints, or engagement","Competitive loan rates, Exclusive offers",Cashback offers,Email,18,40000,Female,Married
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Zero balance accounts, Engagement rewards",Dedicated RM support,Email,49,40000,Female,Widowed
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Engagement rewards, Zero balance accounts",Match competitor offers,SMS,65,25000,Male,Widowed
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","Debit card cashback, Basic credit card",Priority customer care,Mobile App,62,25000,Female,Single
+Fee Sensitive,"Fee Sensitive indicators like transaction patterns, complaints, or engagement","No-fee savings account, Basic credit card",Instant approvals,Branch,33,40000,Female,Divorced
+Interest Rate Sensitive,"Interest Rate Sensitive indicators like transaction patterns, complaints, or engagement","Flexible RD plans, High-yield savings",Dedicated RM support,SMS,22,60000,Male,Widowed
+Dormant Account,"Dormant Account indicators like transaction patterns, complaints, or engagement","Engagement rewards, Reactivation offers",Dedicated RM support,Mobile App,20,25000,Male,Single
